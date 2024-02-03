@@ -115,3 +115,11 @@ function changeTab(tabName) {
         });
     }
 }
+
+document.addEventListener('DOMContentLoaded', function () {
+    changeTab('Men'); 
+
+    window.addEventListener('resize', function () {
+        changeTab('Men'); 
+    });
+});
