@@ -1,4 +1,4 @@
-# Marmeto-Frontend-Assessment  
+# Marmeto-Frontend-Assessment  - https://marmetol2.netlify.app/
 
 This repository contains a simple HTML, CSS, and JavaScript implementation for a product selection interface with tabs. Users can choose between Men, Women, and Kids categories to view corresponding products. The responsive design adapts to different screen sizes, providing an optimal user experience on various devices.
 
